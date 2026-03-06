@@ -61,10 +61,3 @@ Un marketplace C2C especializado en artículos vintage, retro y antigüedades: c
 - LinkedIn: https://www.linkedin.com/in/estebandavidgarrido/
 ##
 Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades como Backend Developer!
-
-
-## Estadísticas de Github
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=EstebanDGarrido&theme=dark)](https://git.io/streak-stats)
-
-
